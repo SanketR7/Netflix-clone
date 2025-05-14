@@ -14,9 +14,9 @@ A visually polished and functional Netflix homepage clone that dynamically fetch
 
 - **HTML5**
 - **CSS3**
-- **Vanilla JavaScript**
-- **TMDB API**
-- **YouTube Data API v3**
+- **V JavaScript**
+- **API**
+- **YouTube Data API**
 
 ## 🌐 APIs Used
 
