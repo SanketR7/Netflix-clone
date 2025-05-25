@@ -1,4 +1,3 @@
-Here is a complete `README.md` file for your **Netflix Clone** project based on the HTML, CSS, and JavaScript files you've provided:
 
 ## 🎬 Netflix Clone
 
